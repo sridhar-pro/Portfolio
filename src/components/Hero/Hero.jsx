@@ -46,7 +46,7 @@ export const Hero = () => {
           Hi I'm Sridhar <br /><span className={styles.span}>I'm a</span><span className={styles.role}> {currentRoleText}</span>
         </h1>
         <p className={styles.description}>
-          I am a skilled MERN Stack Developer with a passion for crafting dynamic and user-centric web applications. My objective is to leverage my expertise in MongoDB, Express.js, React, and Node.js to build innovative, high-performance, and scalable web solutions that meet and exceed the needs of clients and end-users.
+          I am a skilled MERN Stack Developer with  passion for crafting dynamic and user-centric web applications. My objective is to leverage my expertise in MongoDB, Express.js, React, and Node.js to build innovative, high-performance, and scalable web solutions that meet and exceed the needs of clients and end-users.
         </p>
         <div className={styles.btns}>
           <a href="mailto:sriisridhar81@gmail.com" className={styles.contactBtn}>
