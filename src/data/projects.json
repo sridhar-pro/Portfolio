@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Article Summarizer",
+      "imageSrc": "projects/article.png",
+      "description": "I developed an article summarizer application using React and OpenAI's powerful language model. ",
+      "skills": ["React", "API", "Node", "MongoDB"],
+      "demo": "https://zingy-clafoutis-0eb7d5.netlify.app/",
+      "source": "#"
+    },
+    {
+      "title": "Digital Marketing Website",
+      "imageSrc": "projects/next.png",
+      "description": "I developed a dynamic and responsive digital marketing website using Next.js.",
+      "skills": ["Next.js" , "React.js", "CMS"],
+      "demo": "https://nextjs-website-phi-five.vercel.app/",
+      "source": "https://github.com/sridhar-pro/Intern-website-1"
+    },
+    {
+      "title": "SocialMedia Native App",
+      "imageSrc": "projects/native.png",
+      "description": "I developed a cross-platform social media application using React Native.",
+      "skills": ["React Native", "Expo", "CLI"],
+      "demo": "#",
+      "source": "https://github.com/sridhar-pro/SocialMediaFeed-ReactNative"
+    }
+  ]
